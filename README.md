@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @devesh518
-- 👀 I’m interested in Artificial Intelligence, Machine Learning and Web Development
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on any projects in Python
+- 👀 I’m interested in Software Development
 - 📫 How to reach me devesh1260@gmail.com
 
 <!---
